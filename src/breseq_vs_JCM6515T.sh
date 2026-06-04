@@ -1,0 +1,10 @@
+breseq -o ER_1_breseq_out -j 4 -r  JCM6515T_spades_scaffold_circular.current.gb ER_1_1.fq.gz ER_1_2.fq.gz
+breseq -o ER_10_breseq_out -j 4 -r  JCM6515T_spades_scaffold_circular.current.gb ER_10_1.fq.gz ER_10_2.fq.gz
+breseq -o ER_2_breseq_out -j 4 -r  JCM6515T_spades_scaffold_circular.current.gb ER_2_1.fq.gz ER_2_2.fq.gz
+breseq -o ER_3_breseq_out -j 4 -r  JCM6515T_spades_scaffold_circular.current.gb ER_3_1.fq.gz ER_3_2.fq.gz
+breseq -o ER_4_breseq_out -j 4 -r  JCM6515T_spades_scaffold_circular.current.gb ER_4_1.fq.gz ER_4_2.fq.gz
+breseq -o ER_5_breseq_out -j 4 -r  JCM6515T_spades_scaffold_circular.current.gb ER_5_1.fq.gz ER_5_2.fq.gz
+breseq -o ER_6_breseq_out -j 4 -r  JCM6515T_spades_scaffold_circular.current.gb ER_6_1.fq.gz ER_6_2.fq.gz
+breseq -o ER_7_breseq_out -j 4 -r  JCM6515T_spades_scaffold_circular.current.gb ER_7_1.fq.gz ER_7_2.fq.gz
+breseq -o ER_8_breseq_out -j 4 -r  JCM6515T_spades_scaffold_circular.current.gb ER_8_1.fq.gz ER_8_2.fq.gz
+breseq -o ER_9_breseq_out -j 4 -r  JCM6515T_spades_scaffold_circular.current.gb ER_9_1.fq.gz ER_9_2.fq.gz
